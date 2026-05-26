@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da6422a4-c266-442d-9cc6-1f75455791cc" name="Changes" comment="Final cleaning&#10;Final translation&#10;Added the 2nd interaction plot">
+    <list default="true" id="da6422a4-c266-442d-9cc6-1f75455791cc" name="Changes" comment="I don't remember what I changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_MAIN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project_MAIN.ipynb" afterDir="false" />
     </list>
@@ -84,7 +84,8 @@
       <workItem from="1779781988333" duration="27000" />
       <workItem from="1779785746599" duration="773000" />
       <workItem from="1779786553143" duration="2022000" />
-      <workItem from="1779797605702" duration="2903000" />
+      <workItem from="1779797605702" duration="2998000" />
+      <workItem from="1779801205752" duration="1362000" />
     </task>
     <task id="LOCAL-00001" summary="traduction">
       <option name="closed" value="true" />
@@ -126,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779790592636</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="I don't remember what I changed">
+      <option name="closed" value="true" />
+      <created>1779801188459</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779801188459</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +169,7 @@
     <MESSAGE value="traduction 2.0" />
     <MESSAGE value="Final cleaning" />
     <MESSAGE value="Final cleaning&#10;Final translation&#10;Added the 2nd interaction plot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final cleaning&#10;Final translation&#10;Added the 2nd interaction plot" />
+    <MESSAGE value="I don't remember what I changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="I don't remember what I changed" />
   </component>
 </project>
